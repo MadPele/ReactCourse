@@ -1,42 +1,16 @@
 {
   "streams": [
     {
-      "title": "t",
-      "description": "t",
+      "title": "T",
+      "description": "T",
+      "userId": "107833163776447262237",
       "id": 1
     },
     {
-      "description": "Tttt",
-      "title": "Test Stream",
+      "title": "PLA",
+      "description": "PLA",
+      "userId": "107833163776447262237",
       "id": 2
-    },
-    {
-      "title": "t1",
-      "description": "ttt",
-      "id": 3
-    },
-    {
-      "title": "Test1",
-      "description": "Tesss",
-      "id": 4
-    },
-    {
-      "title": "Test stream",
-      "description": "this is test",
-      "userId": "107833163776447262237",
-      "id": 5
-    },
-    {
-      "title": "Reter test",
-      "description": "lets see...",
-      "userId": "107833163776447262237",
-      "id": 6
-    },
-    {
-      "title": "pla",
-      "description": "pla",
-      "userId": "107833163776447262237",
-      "id": 7
     }
   ]
 }
